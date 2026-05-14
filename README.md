@@ -1,8 +1,8 @@
 # Hi, I'm Jean
 <p align="left">
-  <img src="https://img.shields.io/badge/Linux-SysAdmin-555555?style=for-the-badge&logo=linux&logoColor=white&labelColor=591cff" height="30" />
+  <img src="https://img.shields.io/badge/Linux-SysAdmin-555555?style=for-the-badge&logo=linux&logoColor=white&labelColor=292929" height="30" />
   <img src="https://img.shields.io/badge/Shell-Bash-555555?style=for-the-badge&logo=gnubash&logoColor=white&labelColor=4EAA25" height="30" />
-  <img src="https://img.shields.io/badge/Hardware-White%20Build-555555?style=for-the-badge&logo=micro-star&logoColor=white&labelColor=FF6100" height="30" />
+  <img src="https://img.shields.io/badge/Hardware-enthusiast-555555?style=for-the-badge&logo=micro-star&logoColor=white&labelColor=057aff" height="30" />
 </p>
 
 ## 📱 Mobile / 💻 Laptop
